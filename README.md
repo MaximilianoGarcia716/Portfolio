@@ -25,7 +25,7 @@ The robot has a Tensorflow type artificial intelligence trained to recognize fiv
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/01.jpg)
 
-Besides it has an odometric/inertial navigation system that uses a Kalman filter to integrate both sensors. Finally the interface shows the status of the robot, the camera with the Tensorflow identification and a map that shows the robot's path and where signals can be placed to mark some points of interest. Said interface is designed to take the input from an xbox type controller for controlling the robot movement and the interface functions.
+The robot also has an odometric/inertial navigation system that uses a Kalman filter to integrate both sensors. Finally the interface shows the status of the robot, the camera with the Tensorflow identification and a map that shows the robot's path and where signals can be placed to mark some points of interest. Said interface is designed to take the input from an xbox type controller for controlling the robot movement and the interface functions.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/02.jpg)
 
@@ -34,7 +34,7 @@ The full repository can be checked [here](https://github.com/MaximilianoGarcia71
 <a id="Item2"></a>
 # Port crane automaton
 
-Ese proyecto fué desarrollado en conjunto con otro alumno de la Facultad de Ingeniería([Jonathan Obredor](https://github.com/jonathan-obredor)), consiste en un autómata de control para una grúa de tipo pórtico implementado en una simulación de PLC utilizando grafos y texto estructurado según al estándar de programación IEC61131, posee un control de tres niveles, siendo estos seguridad, control supervisor y control de movimiento para el actuador de izaje y movimiento del carro, además se agregó un control de balanceo para la carga y se realiza una simulación en el propio PLC del sistema físico. Los resultados de dicha simulación son enviados por OPC UA a la terminal de Matlab donde se muestra en la interfaz.
+This project was developed with another student of the Faculty of Engineering([Jonathan Obredor](https://github.com/jonathan-obredor)), consist in a control automaton for a port gantry crane implemented in a PLC simulation using functional block diagrams and structured text according the IEC 61131 standard, it has a three level control, being security, supervisor control and movement control for the lifting and trolley actuators, it also has a load swinging control and runs the simulation in the same PLC as the fisical system simulation. The results of said simulation are send through OPC UA to a Matlab terminal where the interface is shown.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
 
