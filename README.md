@@ -29,7 +29,7 @@ The robot also has an odometric/inertial navigation system that uses a Kalman fi
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/02.jpg)
 
-The full repository can be checked [here](https://github.com/MaximilianoGarcia716/Proyecto-Final-de-Estudios).
+The full repository in spanish can be checked [here](https://github.com/MaximilianoGarcia716/Proyecto-Final-de-Estudios).
 
 <a id="Item2"></a>
 # Port crane automaton
@@ -38,12 +38,12 @@ This project was developed with another student of the Faculty of Engineering([J
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
 
-The full repository can be checked [here](https://github.com/MaximilianoGarcia716/Automata-de-grua-portuaria).
+The full repository in spanish can be checked [here](https://github.com/MaximilianoGarcia716/Automata-de-grua-portuaria).
 
 <a id="Item3"></a>
 # CO2 measurement chamber for soil respiration
 
-Este proyecto fué desarrollado en conjunto con los alumnos [Santiago Urigüen](https://github.com/Santi-Uriguen), Fabricio Cano y [Mauricio Martínez](https://github.com/MauriM2023), además de los ingenieros José Nicolás Martín y [Fernando Castro](https://github.com/nanocastro) de la Facultad de Ciencias Agrarias, dicho proyecto consta de una cámara estanca con sensores de dióxido de carbono SCD41 los cuales miden el CO2 liberado por una muestra tratada de suelo con el objetivo de medir la actividad microbiana de dicha muestra. Además dichos sensores posee la capacidad de medir temperatura y humedad.
+This project was developed in team with the students [Santiago Urigüen](https://github.com/Santi-Uriguen), Fabricio Cano and [Mauricio Martínez](https://github.com/MauriM2023), and the engineers José Nicolás Martín and [Fernando Castro](https://github.com/nanocastro) from the Faculty of Agricultural Sciences, said project consists of a sealed chamber with SCD41 carbon dioxide sensors that measures the CO2 released by a treated sample of soil aiming to determine the microbial activity of said soil. Besides, said sensors it also has temperature and humidity sensing capacity.
 
 ![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Soil%20Chamber.jpg)
 
@@ -68,7 +68,7 @@ Finalmente el proyectó culminó con el estudio de un programa de generación de
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/06.jpg)
 
-The full repository can be checked [here](https://github.com/MaximilianoGarcia716/Cinematica-y-soldadura-ABB-IRB-140).
+The full repository in spanish can be checked [here](https://github.com/MaximilianoGarcia716/Cinematica-y-soldadura-ABB-IRB-140).
 
 <a id="Item5"></a>
 # RAM memory simulator with C++ and SDL2
@@ -79,4 +79,4 @@ Este proyecto se realizó en conjunto con las alumnas Araceli Arteaga y Stefaní
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/08.jpg)
 
-The full repository can be checked [here](https://github.com/MaximilianoGarcia716/Simulador-RAM).
+The full repository in spanish can be checked [here](https://github.com/MaximilianoGarcia716/Simulador-RAM).
