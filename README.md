@@ -47,7 +47,7 @@ This project was developed in team with the students [Santiago Urigüen](https:/
 
 ![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Soil%20Chamber.jpg)
 
-Dicho sensor se multiplexa, permitiendo hasta 4 sensores en simultáneo, sus datos posteriormente son procesados mediante un Wemos Lolin32 Lite para posteriormente ser enviados a un servidor de Thingspeak, además de ser mostrados en una pantalla LED. El gabinete que contiene lo anteriormente nombrado además posee un boton de calibración para calibrar por altitud los sensores antes de su uso mediante un sensor de presión.
+Said sensors are multiplexed allowing up to four sensors to be used simultaneously, then their data are processed by a Wemos Lolin32 Lite and send to a Thingspeak server, in addition to being shown in a LCD screen. The case has the previously mentioned content in addition to a calibration button for altitude calibration by a pressure sensor before use.
 
 ![Image](https://raw.githubusercontent.com/GenericLab/CO2-soil-respiration-chamber/main/hardware/WEMOS-lolin32_Multiplexing_SCD41%20schematics/Soil%20Chamber%20Cabinet.jpg)
 
@@ -60,11 +60,11 @@ The full repository can be checked [here](https://github.com/GenericLab/CO2-soil
 <a id="Item4"></a>
 # Trajectory generation for ABB IRB 140 robot for welding
 
-Este proyecto se realizó en conjunto con el alumno William Alfaro de la Facultad de ingeniería, consistió en el estudio cinemático de un robot ABB IRB 140 de 6 Grados de Libertad, incluyendo desarrollo de su cinemática directa e inversa, estudio de límites articulares y espacio de trabajo, incluyendo en todos los casos la herramienta de soldadura por arco PKI 300.
+This project was developed in team with the student William Alfaro of the Faculty of Engineering, consisted in the cinematic study of an ABB IRB 140 robot of six degrees of freedom, including direct and inverse cinematic development, articular limit and workspace study, including in all cases the arc welding tool PKI 300.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/05.jpg)
 
-Finalmente el proyectó culminó con el estudio de un programa de generación de trayectorias para soldaduras con implementación con el toolbox Robotics de Peter Corke.
+Finally the project concluded with the development of a trajectory generation software with implementation of the robotic toolbox by Peter Corke.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/06.jpg)
 
@@ -73,7 +73,7 @@ The full repository in spanish can be checked [here](https://github.com/Maximili
 <a id="Item5"></a>
 # RAM memory simulator with C++ and SDL2
 
-Este proyecto se realizó en conjunto con las alumnas Araceli Arteaga y Stefanía Arias de la Facultad de Ingeniería, consistió en el modelado de una memoria RAM, la cual puede ser secuencial o aleatoria en cuanto a la ubicación de los procesos, dicha memoria puede ser de 512 o 1024 espacios y contiene procesos y subprocesos simulados mediante memoria de código, pila y datos. Mediante multithreading cada proceso puede cerrar a sus subprocesos y cerrarse a si mismo, eliminándose de la lista de procesos activos y liberando espacio en la memoria. Todo lo anterior es graficado mediante las librería de SDL2 para C++.
+This project was developed in team with the students Araceli Arteaga and Stefanía Arias of the Faculty of Engineering, consisted in the modeling of a RAM memory, which can be sequential or random with regard to the processes placement, said memory can have 512 or 1024 spaces that contains processes and subprocesses simulated as code, pile and data sectors. Through multithreading each process can close each of its subprocess and itself, deleting itself from the list of active processes and releasing memory space. All of that is shown using the SDL2 library for C++..
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/07.jpg)
 
