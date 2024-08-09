@@ -1,7 +1,7 @@
 # Presentation
 Greetings!, my name is Maximiliano Garcia Giron, I am an engineer in mechatronics graduated from Universidad Nacional de Cuyo and this is my professional portfolio. As you can observe while inspecting my student and professional projects, my most defining characteristic is curiosity, in conjunction with great desire of continuous learning, experimenting and developing creativity in a constant way, I am interested in investigation and development, but open to maintenance and field works.
 
-You can visit me on [Linkedin](https://www.linkedin.com/in/maximiliano-garcia-giron-01a9251ba/) and check my [Curriculum Vitae](https://github.com/MaximilianoGarcia716/Portafolio/blob/main/Curriculum%20Vitae/CURRICULUM%20VITAE%20Garcia%20Maximiliano.pdf).
+You can visit me on [Linkedin](https://www.linkedin.com/in/maximiliano-garcia-giron-01a9251ba/) and check my [Curriculum Vitae](https://github.com/MaximilianoGarcia716/Portfolio/blob/main/Curriculum%20Vitae/CURRICULUM%20VITAE%20Garcia%20Maximiliano%20-%20english.pdf).
 
 In adition to being a native Spanish speaker, I have [english C2](https://efset.org/cert/wq7khc) level.
 
