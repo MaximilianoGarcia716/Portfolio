@@ -74,7 +74,7 @@ The full repository in spanish can be checked [here](https://github.com/Maximili
 <a id="Item5"></a>
 # RAM memory simulator with C++ and SDL2
 
-This project was developed in team with the students Araceli Arteaga and Stefanía Arias of the Faculty of Engineering, consisted in the modeling of a RAM memory, which can be sequential or random with regard to the processes placement, said memory can have 512 or 1024 spaces that contains processes and subprocesses simulated as code, pile and data sectors. Through multithreading each process can close each of its subprocess and itself, deleting itself from the list of active processes and releasing memory space. All of that is shown using the SDL2 library for C++..
+This project was developed in team with the students Araceli Arteaga and Stefanía Arias of the Faculty of Engineering, consisted in the modeling of a RAM memory, which can be sequential or random with regard to the process placement, said memory can have 512 or 1024 spaces that contains processes and subprocesses simulated as code, pile and data sectors. Through multithreading each process can close each of its subprocess and itself, deleting itself from the list of active processes and releasing memory space. All of that is shown using the SDL2 library for C++..
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/07.jpg)
 
