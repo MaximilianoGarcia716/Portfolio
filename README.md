@@ -6,7 +6,7 @@ You can visit me on [Linkedin](https://www.linkedin.com/in/maximiliano-garcia-gi
 
 In adition to being a native Spanish speaker, I have [english C2](https://efset.org/cert/wq7khc) level.
 
-Next is presented a recap of my proyects, being produced alone or in a team, they all have a repository including code that you can check, but at the moment they all in Spanish.
+Next is presented a recap of my proyects, being produced alone or in a team, they all have a repository including code that you can check, but at the moment they are mostly in Spanish.
 
 # Index:
 - [Exploration holonomic differential robot for search and rescue](#Item1)
