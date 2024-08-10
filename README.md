@@ -35,7 +35,7 @@ The full repository in spanish can be checked [here](https://github.com/Maximili
 <a id="Item2"></a>
 # Port crane automaton
 
-This project was developed with another student of the Faculty of Engineering([Jonathan Obredor](https://github.com/jonathan-obredor)), consist in a control automaton for a port gantry crane implemented in a PLC simulation using functional block diagrams and structured text according the IEC 61131 standard, it has a three control levels, being security, supervisor control and movement control for the lifting and trolley actuators, it also has a load swinging control and runs the simulation in the same PLC as the fisical system simulation. The results of said simulation are send through OPC UA to a Matlab terminal where the interface is shown.
+This project was developed with another student of the Faculty of Engineering([Jonathan Obredor](https://github.com/jonathan-obredor)), consist in a control automaton for a port gantry crane implemented in a PLC simulation using functional block diagrams and structured text according the IEC 61131 standard, it has three control levels, being security, supervisor control and movement control for the lifting and trolley actuators, it also has a load swinging control and runs the simulation in the same PLC as the fisical system simulation. The results of said simulation are send through OPC UA to a Matlab terminal where the interface is shown.
 
 ![Image](https://raw.githubusercontent.com/MaximilianoGarcia716/Portafolio/main/Imagenes/04.jpg)
 
